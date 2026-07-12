@@ -28,6 +28,16 @@ A shared question-card experience that turns a screen into a conversation.
 
 <br>
 
+## 03 / AI LAB
+
+Model experiments and open machine-learning work.
+
+`PYTORCH` &nbsp; `TRANSFORMERS` &nbsp; `LOCAL AI`
+
+→ **[Explore on Hugging Face](https://huggingface.co/Shirokuma-VIUK)**
+
+<br>
+
 ---
 
 <p align="center">
