@@ -20,7 +20,7 @@ AIの安全な利用と発展を目指し、アイデアを実際に使えるプ
 
 ## 01 / VIUK ONE
 
-物語、知性、人とのつながりを軸にしたiOSプロジェクト。
+VIUKの全てをここに
 
 `SWIFT` &nbsp; `SWIFTUI` &nbsp; `ON-DEVICE AI`
 
