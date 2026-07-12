@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="VIUK-XV — 新たなものを作る">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="VIUK — まだないものを創れ。追うなら、追い越せ。">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#020617"/>
@@ -22,8 +22,8 @@
   <circle cx="1020" cy="80" r="150" fill="#2563eb" opacity=".16" filter="url(#glow)"/>
   <path d="M918 58l58 96 58-96h54L976 238 864 58z" fill="none" stroke="#60a5fa" stroke-width="6" opacity=".9"/>
   <path d="M0 292h1200" stroke="url(#line)" stroke-width="2"/>
-  <text x="76" y="142" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="8">VIUK-XV</text>
-  <text x="81" y="196" fill="#93c5fd" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" letter-spacing="5">新たなものを作る</text>
+  <text x="76" y="142" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="8">VIUK</text>
+  <text x="81" y="196" fill="#93c5fd" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" letter-spacing="3">まだないものを創れ。追うなら、追い越せ。</text>
   <text x="80" y="322" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">SWIFTUI  /  AI  /  安全と発展</text>
   <circle cx="1120" cy="316" r="5" fill="#38bdf8"/>
   <circle cx="1144" cy="316" r="5" fill="#3b82f6"/>
