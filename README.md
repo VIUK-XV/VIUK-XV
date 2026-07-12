@@ -1,55 +1,62 @@
 <p align="center">
-  <img src="./assets/viuk-header.svg" width="100%" alt="VIUK — まだないものを創れ。追うなら、追い越せ。">
+  <img src="./assets/viuk-header.svg" width="100%" alt="VIUK">
 </p>
+
+<h1 align="center">まだないものを創れ。<br>追うなら、追い越せ。</h1>
 
 <p align="center">
-  <strong>ネイティブアプリ × AI × 人とのつながり</strong>
+  AIを安全に前進させ、まだ名前のない体験をプロダクトにする。
 </p>
 
 <br>
 
-## 方針
+## VISION / 00
 
-> **まだないものを創れ。追うなら、追い越せ。**
+AIは、人の代わりになるためだけのものではない。  
+人の創造性を広げ、人と人を近づけ、できなかったことを可能にするためにある。
 
-AIの安全な利用と発展を目指し、アイデアを実際に使えるプロダクトへ変えていく。
-
-**人を中心に。安全を前提に。まだない体験を形に。**
-
-<br>
-
-## 01 / VIUK ONE
-
-物語、知性、人とのつながりを軸にしたiOSプロジェクト。
-
-`SWIFT` &nbsp; `SWIFTUI` &nbsp; `ON-DEVICE AI`
-
-→ **[VIUK Oneを見る](https://github.com/VIUK-XV/VIUK-one)**
+VIUKは、安全を妥協せず、技術の可能性にも限界を置かない。
 
 <br>
 
-## 02 / LOVES
+## PRINCIPLES / 01
 
-画面を二人の会話に変える、共有型の質問カード体験。
-
-`WEB` &nbsp; `INTERACTION` &nbsp; `TWO-PLAYER`
-
-→ **[loves-webを見る](https://github.com/VIUK-XV/loves-web)**
+**未知を選ぶ。**　既にある正解より、まだない価値を探す。  
+**超えていく。**　学び、真似て、最後は新しい基準をつくる。  
+**安全に進める。**　AIの発展と責任を、同じ速度で前へ進める。
 
 <br>
 
-## 03 / AI LAB
+## BUILDS / 02
 
-モデル開発、ローカルAI、オープンな機械学習の実験。
+### VIUK ONE
 
-`PYTORCH` &nbsp; `TRANSFORMERS` &nbsp; `LOCAL AI`
+物語、知性、人とのつながりを再設計するiOSプロジェクト。  
+`SWIFT`　`SWIFTUI`　`ON-DEVICE AI`
 
-→ **[Hugging Faceを見る](https://huggingface.co/Shirokuma-VIUK)**
+**[プロジェクトを見る →](https://github.com/VIUK-XV/VIUK-one)**
+
+### LOVES
+
+画面を二人の会話に変える、共有型の質問カード体験。  
+`WEB`　`INTERACTION`　`TWO-PLAYER`
+
+**[プロジェクトを見る →](https://github.com/VIUK-XV/loves-web)**
+
+<br>
+
+## AI LAB / 03
+
+モデル開発、ローカルAI、オープンな機械学習の実験。  
+`PYTORCH`　`TRANSFORMERS`　`LOCAL AI`
+
+**[Hugging Faceを見る →](https://huggingface.co/Shirokuma-VIUK)**
 
 <br>
 
 ---
 
 <p align="center">
-  <code>つくる</code> &nbsp;·&nbsp; <code>試す</code> &nbsp;·&nbsp; <code>世に出す</code>
+  <strong>VIUK</strong><br>
+  <sub>CREATE WHAT COMES NEXT.</sub>
 </p>
