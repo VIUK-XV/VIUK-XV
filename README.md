@@ -10,7 +10,7 @@
 
 
 
-## BUILDS / 02
+## BUILDS / 01
 
 ### VIUK ONE
 
@@ -28,7 +28,7 @@
 
 <br>
 
-## AI LAB / 03
+## AI LAB / 02
 
 モデル開発、ローカルAI、オープンな機械学習の実験。  
 `PYTORCH`　`TRANSFORMERS`　`LOCAL AI`
