@@ -23,7 +23,6 @@
   <path d="M918 58l58 96 58-96h54L976 238 864 58z" fill="none" stroke="#60a5fa" stroke-width="6" opacity=".9"/>
   <path d="M0 338h1200" stroke="url(#line)" stroke-width="2"/>
   <text x="72" y="184" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="118" font-weight="700" letter-spacing="14">VIUK</text>
-  <text x="80" y="234" fill="#93c5fd" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" letter-spacing="7">CREATE WHAT COMES NEXT.</text>
-  <text x="80" y="380" fill="#64748b" font-family="monospace" font-size="14" letter-spacing="2">NATIVE PRODUCTS  /  SAFE AI  /  HUMAN CONNECTION</text>
-  <text x="1100" y="380" fill="#60a5fa" font-family="monospace" font-size="14" text-anchor="end">00 / ∞</text>
+  <text x="80" y="234" fill="#93c5fd" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600" letter-spacing="5">SWIFT  /  AI  /  PRODUCTS</text>
+  <text x="80" y="380" fill="#64748b" font-family="monospace" font-size="14" letter-spacing="2">BUILDING AND LEARNING IN PUBLIC</text>
 </svg>
