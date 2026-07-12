@@ -8,6 +8,16 @@
 
 <br>
 
+## DIRECTION
+
+> Technology should bring people closer — not demand more of their attention.
+
+We build calm, native experiences where AI supports the relationship instead of replacing it.
+
+**Human first. Private by design. Useful in the real world.**
+
+<br>
+
 ## 01 / VIUK ONE
 
 An iOS experience designed around stories, intelligence, and closer relationships.
