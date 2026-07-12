@@ -1,4 +1,4 @@
-# Kanato Higuma
+
 
 **Building thoughtful software with Swift and AI.**
 
