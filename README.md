@@ -1,23 +1,35 @@
-# VIUK-XV
+<p align="center">
+  <img src="./assets/viuk-header.svg" width="100%" alt="VIUK-XV — Build closer worlds">
+</p>
 
-Building native products with **SwiftUI and AI**.
+<p align="center">
+  Products at the intersection of <strong>native software</strong>, <strong>AI</strong>, and <strong>human connection</strong>.
+</p>
 
-## Projects
+<br>
 
-### [VIUK One](https://github.com/VIUK-XV/VIUK-one)
+## 01 / VIUK ONE
 
-An iOS project exploring AI-powered experiences and human connection.
+An iOS experience designed around stories, intelligence, and closer relationships.
 
-### [loves-web](https://github.com/VIUK-XV/loves-web)
+`SWIFT` &nbsp; `SWIFTUI` &nbsp; `ON-DEVICE AI`
 
-A shared question-card web experience.
+→ **[Explore VIUK One](https://github.com/VIUK-XV/VIUK-one)**
 
-## Technology
+<br>
 
-`Swift` · `SwiftUI` · `Python` · `PyTorch` · `On-device AI`
+## 02 / LOVES
 
-## Open source
+A shared question-card experience that turns a screen into a conversation.
 
-Contributing code, Japanese documentation, and reviews.
+`WEB` &nbsp; `INTERACTION` &nbsp; `TWO-PLAYER`
 
-[Hugging Face](https://huggingface.co/Shirokuma-VIUK) · [Qiita](https://qiita.com/viuk)
+→ **[Explore loves-web](https://github.com/VIUK-XV/loves-web)**
+
+<br>
+
+---
+
+<p align="center">
+  <code>CREATE</code> &nbsp;·&nbsp; <code>EXPERIMENT</code> &nbsp;·&nbsp; <code>SHIP</code>
+</p>
