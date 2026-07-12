@@ -1,26 +1,23 @@
+# VIUK-XV
 
+Building native products with **SwiftUI and AI**.
 
-**Building thoughtful software with Swift and AI.**
+## Projects
 
-Based in Nishio, Japan. I design and build products that make technology feel
-more human — from native iOS experiences to local intelligence.
+### [VIUK One](https://github.com/VIUK-XV/VIUK-one)
 
----
+An iOS project exploring AI-powered experiences and human connection.
 
-### Selected work
+### [loves-web](https://github.com/VIUK-XV/loves-web)
 
-**[VIUK One](https://github.com/VIUK-XV/VIUK-one)**  
-A native product exploring AI, stories, and human connection.
+A shared question-card web experience.
 
-**[loves-web](https://github.com/VIUK-XV/loves-web)**  
-A shared question-card experience for two people.
+## Technology
 
-### Focus
+`Swift` · `SwiftUI` · `Python` · `PyTorch` · `On-device AI`
 
-`Swift` `SwiftUI` `Python` `PyTorch` `On-device AI`
+## Open source
 
-I also contribute Japanese documentation and reviews to open-source projects.
-
----
+Contributing code, Japanese documentation, and reviews.
 
 [Hugging Face](https://huggingface.co/Shirokuma-VIUK) · [Qiita](https://qiita.com/viuk)
