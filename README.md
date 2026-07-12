@@ -1,55 +1,55 @@
 <p align="center">
-  <img src="./assets/viuk-header.svg" width="100%" alt="VIUK-XV — Build closer worlds">
+  <img src="./assets/viuk-header.svg" width="100%" alt="VIUK-XV — 新たなものを作る">
 </p>
 
 <p align="center">
-  Products at the intersection of <strong>native software</strong>, <strong>AI</strong>, and <strong>human connection</strong>.
+  <strong>ネイティブアプリ × AI × 人とのつながり</strong>
 </p>
 
 <br>
 
-## DIRECTION
+## 方針
 
-> Technology should bring people closer — not demand more of their attention.
+> **新たなものを作る。真似るなら、本家を超えろ。**
 
-We build calm, native experiences where AI supports the relationship instead of replacing it.
+AIの安全な利用と発展を目指し、アイデアを実際に使えるプロダクトへ変えていく。
 
-**Human first. Private by design. Useful in the real world.**
+**人を中心に。安全を前提に。まだない体験を形に。**
 
 <br>
 
 ## 01 / VIUK ONE
 
-An iOS experience designed around stories, intelligence, and closer relationships.
+物語、知性、人とのつながりを軸にしたiOSプロジェクト。
 
 `SWIFT` &nbsp; `SWIFTUI` &nbsp; `ON-DEVICE AI`
 
-→ **[Explore VIUK One](https://github.com/VIUK-XV/VIUK-one)**
+→ **[VIUK Oneを見る](https://github.com/VIUK-XV/VIUK-one)**
 
 <br>
 
 ## 02 / LOVES
 
-A shared question-card experience that turns a screen into a conversation.
+画面を二人の会話に変える、共有型の質問カード体験。
 
 `WEB` &nbsp; `INTERACTION` &nbsp; `TWO-PLAYER`
 
-→ **[Explore loves-web](https://github.com/VIUK-XV/loves-web)**
+→ **[loves-webを見る](https://github.com/VIUK-XV/loves-web)**
 
 <br>
 
 ## 03 / AI LAB
 
-Model experiments and open machine-learning work.
+モデル開発、ローカルAI、オープンな機械学習の実験。
 
 `PYTORCH` &nbsp; `TRANSFORMERS` &nbsp; `LOCAL AI`
 
-→ **[Explore on Hugging Face](https://huggingface.co/Shirokuma-VIUK)**
+→ **[Hugging Faceを見る](https://huggingface.co/Shirokuma-VIUK)**
 
 <br>
 
 ---
 
 <p align="center">
-  <code>CREATE</code> &nbsp;·&nbsp; <code>EXPERIMENT</code> &nbsp;·&nbsp; <code>SHIP</code>
+  <code>つくる</code> &nbsp;·&nbsp; <code>試す</code> &nbsp;·&nbsp; <code>世に出す</code>
 </p>
