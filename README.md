@@ -10,7 +10,7 @@ SwiftUIとAIを使って、アプリや小さな実験を作っています。
 
 ### [VIUK One](https://github.com/VIUK-XV/VIUK-one)
 
-SwiftUIで開発しているiOSアプリ。
+VIUKの全てをここに。統合アプリ。
 
 ### [LOVES](https://github.com/VIUK-XV/loves-web)
 
