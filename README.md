@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/viuk-header.svg" width="100%" alt="VIUK-XV — 新たなものを作る">
+  <img src="./assets/viuk-header.svg" width="100%" alt="VIUK — まだないものを創れ。追うなら、追い越せ。">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## 方針
 
-> **新たなものを作る。真似るなら、本家を超えろ。**
+> **まだないものを創れ。追うなら、追い越せ。**
 
 AIの安全な利用と発展を目指し、アイデアを実際に使えるプロダクトへ変えていく。
 
@@ -20,7 +20,7 @@ AIの安全な利用と発展を目指し、アイデアを実際に使えるプ
 
 ## 01 / VIUK ONE
 
-VIUKの全てをここに
+物語、知性、人とのつながりを軸にしたiOSプロジェクト。
 
 `SWIFT` &nbsp; `SWIFTUI` &nbsp; `ON-DEVICE AI`
 
