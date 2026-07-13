@@ -2,7 +2,7 @@
   <img src="./assets/viuk-header.svg" width="100%" alt="VIUK">
 </p>
 
-> まだないものを創れ。追うなら、追い越せ。
+
 
 SwiftUIとAIを使って、アプリや小さな実験を作っています。
 
